@@ -1,7 +1,5 @@
 # Neural Network From Scratch
 
-A beginner-friendly implementation of a simple neural network built from scratch using **Python and NumPy**.
-
 This project is designed to understand the fundamental workflow of neural networks without directly relying on high-level deep learning frameworks.
 
 The project demonstrates how a neural network learns through:
@@ -12,7 +10,7 @@ The project demonstrates how a neural network learns through:
 
 ## 📌 Project Overview
 
-In this project, we build a simple binary classification model to predict whether a student will **Pass or Fail** based on:
+In this project, i built a simple binary classification model to predict whether a student will **Pass or Fail** based on:
 
 - Study Hours
 - Attendance
@@ -155,7 +153,7 @@ Target encoding:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/neural-network-from-scratch.git
+git clone https://github.com/gaurav-0400/neural-network-activation-functions.git
 ```
 
 Move into the project directory:
@@ -351,6 +349,6 @@ Possible extensions include:
 
 ## 👨‍💻 Author
 
-**Gaurav Kumar**
+**Gaurav**
 
 GitHub: https://github.com/gaurav-0400
